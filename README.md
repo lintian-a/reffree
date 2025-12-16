@@ -1,8 +1,8 @@
-# RefFree: Reference-Free 3D Reconstruction of brain dissection photographs with ML
+# RefFree: Reference-Free 3D Reconstruction of Brain Dissection Slabs via Learned Atlas Coordinates
 [![arXiv](https://img.shields.io/badge/arXiv-2403.05780-b31b1b.svg)](https://arxiv.org/abs/2503.09963)
 
 **Reference-Free 3D Reconstruction of Brain Dissection Photographs with Machine Learning**  
-Lin Tian, Sean I. Young, Jonathan Williams Ramirez, Dina Zemlyanker, Lucas Jacob Deden Binder, Rogeny Herisse, Theresa R. Connors, Derek H. Oakley, Bradley T. Hyman, Oula Puonti, Matthew S. Rosen, Juan Eugenio Iglesias [https://arxiv.org/abs/2403.05780](https://www.arxiv.org/abs/2503.09963)  
+Lin Tian, Jonathan Williams-Ramirez, Dina Zemlyanker, Lucas J. Deden-Binder, Rogeny Herisse, Theresa R. Connors, Mark Montine, Istvan N Huszar, Lilla Zöllei, Sean I. Young, Christine Mac Donald, C. Dirk Keene, Derek H. Oakley, Bradley T. Hyman, Oula Puonti, Matthew S. Rosen, and Juan Eugenio Iglesias
 
 <div align="center">
 <img src="figures/refree_teaser.png" width=550 alt="teaser">
@@ -42,8 +42,8 @@ python src/reffree/train.py -e [EXP_ID] --exp_folder [EXP_FOLDER] --batch_size 2
 If you find this repository useful, please consider cite:
 ```
 @article{tian2025reference,
-  title={Reference-Free 3D Reconstruction of Brain Dissection Photographs with Machine Learning},
-  author={Tian, Lin and Young, Sean I and Ramirez, Jonathan Williams and Zemlyanker, Dina and Binder, Lucas Jacob Deden and Herisse, Rogeny and Connors, Theresa R and Oakley, Derek H and Hyman, Bradley T and Puonti, Oula and others},
+  title={Reference-Free 3D Reconstruction of Brain Dissection Slabs via Learned Atlas Coordinates},
+  author={Tian, Lin and Williams Ramirez, Jonathan and Zemlyanker, Dina and Deden-Binder, Lucas J. and Herisse, Rogeny and Connors, Theresa R. and Montine, Mark and Huszar, Istvan N. and Z{\"o}llei, Lilla and Young, Sean I. and {Mac Donald}, Christine and Keene, C. Dirk and Oakley, Derek H. and Hyman, Bradley T. and Puonti, Oula and Rosen, Matthew S. and Iglesias, Juan Eugenio},
   journal={arXiv preprint arXiv:2503.09963},
   year={2025}
 }
