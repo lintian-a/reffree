@@ -1,7 +1,7 @@
 # RefFree: Reference-Free 3D Reconstruction of Brain Dissection Slabs via Learned Atlas Coordinates
 [![arXiv](https://img.shields.io/badge/arXiv-2403.05780-b31b1b.svg)](https://arxiv.org/abs/2503.09963)
 
-**Reference-Free 3D Reconstruction of Brain Dissection Photographs with Machine Learning**  
+**Reference-Free 3D Reconstruction of Brain Dissection Slabs via Learned Atlas Coordinates**  
 Lin Tian, Jonathan Williams-Ramirez, Dina Zemlyanker, Lucas J. Deden-Binder, Rogeny Herisse, Theresa R. Connors, Mark Montine, Istvan N Huszar, Lilla Zöllei, Sean I. Young, Christine Mac Donald, C. Dirk Keene, Derek H. Oakley, Bradley T. Hyman, Oula Puonti, Matthew S. Rosen, and Juan Eugenio Iglesias
 
 <div align="center">
